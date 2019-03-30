@@ -9,4 +9,5 @@ This model takes an input of 28x28 image containing a digit and classify it betw
   3. Fitting the training data and calculatin accuracy
   4. Runtime detection using OpenCV.
   
-Accuracy reached: 96%
+Accuracy reached using keras : 96%
+Accuracy reached using tensorflow: 98%
